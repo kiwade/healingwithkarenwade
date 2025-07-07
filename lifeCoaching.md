@@ -39,7 +39,7 @@ navigation: primary-dark
           <article>
             <div class="media">
               <img
-                src="assets/images/guysunrise.jfif">
+                src="assets/images/hero.png">
             </div>
             <div class="content has-action-button">
               <h6>
@@ -55,7 +55,23 @@ navigation: primary-dark
           <article>
             <div class="media">
               <img
-                src="assets/images/guysunrise.jfif">
+                src="assets/images/hero.png">
+            </div>
+            <div class="content has-action-button">
+              <h6>
+              Wellness
+              </h6>
+              <a href="https://PayPal.me/ReubenReams"  target="_blank" class="btn btn-outline btn-large">Purchase</a>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="col s3">
+        <div class="tiles count-1">
+          <article>
+            <div class="media">
+              <img
+                src="assets/images/hero.png">
             </div>
             <div class="content has-action-button">
               <h6>
@@ -87,7 +103,7 @@ navigation: primary-dark
           <article>
             <div class="media">
               <img
-                src="assets/images/guysunrise.jfif">
+                src="assets/images/hero.png">
             </div>
             <div class="content has-action-button">
               <h6>
