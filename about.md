@@ -15,7 +15,7 @@ navigation: primary-dark
   </div>
   <div class="parallax overlay">
     <img class="fade-out-fast" alt="hero"
-      src="assets/images/flyingeagle.jfif">
+      src="assets/images/hero.png">
   </div>
 </div>
 
