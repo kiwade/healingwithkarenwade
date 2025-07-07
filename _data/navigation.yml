@@ -4,9 +4,7 @@
   url: /lifeCoaching.html
 - title: Events
   url: /events.html
-- title: About
-  url: /about.html
 - title: Contact
   url: /contact.html
-- title: Testimonials
-  url: /testimonial.html
+- title: Login
+  url: /portal.html
