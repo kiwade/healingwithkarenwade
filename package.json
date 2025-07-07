@@ -1,0 +1,33 @@
+{
+  "name": "karenwade",
+  "version": "1.0.0",
+  "description": "karenwade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "bundle exec jekyll serve --livereload",
+    "build": "npm run build:scripts && bundle exec jekyll build",
+    "watch:scripts": "npm run build:scripts -- -w",
+    "build:scripts": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwade/healingwithkarenwade"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwade/healingwithkarenwade/issues"
+  },
+  "homepage": "https://github.com/kiwade/healingwithkarenwade#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "glob": "^7.1.7",
+    "rollup": "^2.56.3",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
